@@ -1,0 +1,58 @@
+|| Primeira Aula - 11/02/2021 ||
+||Daniel Otávio				  ||
+
+Pauta:
+1-) Introdução
+2-) O que são os paradigmas?
+
+Tópicos:
+
+2-) Formas de estudar diferentes linguagens. Estudo de fundamentos das difernetes linguagens de programação.
+
+Paradigma imperativo: 
+	Baseia ideia que um estado sofre modificações durante a computação. Representado por variaveis globais e locais. 
+
+	Diferenca fundamental entre funcional e imperativo: 
+		é uma associação dinamica, ou seja, constantemente modificada durante execução de programa.
+
+	Oferecem maior variedade de comando (atribuição, leitura e/ou escrita assim como compostos sendo eles: sequencial, condicional ou iteracional.).
+
+Paradigma Estruturado: 
+	normalmente formado por código de unico bloco. Estrutura: sequencia, decisão, iteração.
+
+	sequencia: 
+		instruções ou subrotinas executadas em sequencia
+		seleção/condicional(decisão): instruções executadas, ou não, conforme estado do programa. (if/else)
+
+	iteração/repeticão: 
+		instruções são executadas até que o programa atinja determinado estado. (for/while, repeat)
+
+	recursão: 
+		instruções executadas com chamadas auto referenciadas até que as certas condições sejam satisfeitas.
+
+Paradigma Orientado a objeto: 
+	São operadores que trabalham com o conceito the this ou self, modificando os dados da própria sessão. São arquitetados com objetos que interagem entre si. As baseadas em classes são as mais comuns: objetos são instâncias de classes - o que define o tipo de objeto. Cada classe/objeto define o comportamento e estado dos seus objetos inerentes, assim como o relacionamento com outras classes.
+
+	Acomoda as mesmas funções de prog. estrutarada e:
+
+	encapsulamento: 
+		responsavel pelo ocultamento de dados. Pode ser realizado através de convenções ou recursos da linguagem(método privado que só é acessado pela própria classe.)
+
+	Composição de objetos:
+		é usada para representar uma relação 'tem um', uma meronímia(relação semantica).
+
+	Herança:
+		 apresenta relações do tipo 'é um' ou ' é um tipo de', 'this kindOf' - relação hipermeronímia, resultando na árvore taxonômica. Tipicamente, os atributos e métodos da classe pai/mãe também pertencem a classe filha(é comum que algumas caracteristicas sejam substituídas). Permite reuso fácil de características.
+
+	Herança múltipla:
+		ocorre quando a classe é filha em mais de uma classe. 
+
+	Polimofrismo: 
+		quando uma rotina pode ser chamada para mais de um objeto diferente. 
+ 
+Paradigma logico: 
+	conhecido por restritivo. Utilizado em aplicações de I.A.. Chega no resultado esperado a partir de avaliações lógico-matemáticas.
+
+
+Paradigmam funcional: 
+	focado para avaliação de funções matematicas.

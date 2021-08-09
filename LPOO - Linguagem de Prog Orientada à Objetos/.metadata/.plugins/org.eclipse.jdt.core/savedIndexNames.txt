@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\enric\Documents\UNIP\LPOO - Linguagem de Prog Orientada à Objetos\.metadata\.plugins\org.eclipse.jdt.core
+1545443069.index
+2976844226.index
+3351338590.index
+4026177925.index

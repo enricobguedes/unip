@@ -1,0 +1,24 @@
+|| Segunda Aula - 24/02/2021 ||
+|| Carlos Arruda 			  ||
+
+Pauta:
+
+1-) SGBD - Sistema de gerenciamento de Banco de Dados // DBMS - Data Base Management System
+2-) O que é um dado?
+3-) Metodos de acesso ao SGBD
+
+Tópicos:
+
+1-) a-) Construida por API ou DRIVER
+	b-) Responsabilidade: retirar da aplicação do cliente o gerenciamento, a manipulação, e a organização do banco de dados.
+	c-) Incluem uma interface para que clientes possam incluir ou alterar e consultar os dados já armazenados.
+	d-) Programas ou trechos de códigos colocados em aplicações de clientes para que encontre o banco de dados.
+
+2-) a-) Dado: Registro de um objeto, fenomeno ou evento
+	b-) Informação: dados, que em conjunto, passam a ter significado e compreensão sobre determinada situação
+	c-) Conhecimento: Compreensão da realidade sobre determinada informaçãop, constituindo um saber, ideias ou experiência.
+
+3-) a-) DDL(Data Definition Language): trata-se da especificação do esquema do banco de dados, definindo estruturas, domínio dos dados, indíces e etc.
+	b-) DML(Data Manipulation Language): define o conjunto de operações basicas que se pode manipular os dados como: inserir, alterar, excluir e consultar. Também conhecido como CRUD: create, read, update e delete.
+	c-) Processamento eficaz de consultas que considera relacionamentos, predicados de seleção, volume de dados e indices.
+	d-) Metodos de acesso são comandos do SQL (por ex.).

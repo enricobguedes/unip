@@ -1,0 +1,21 @@
+||23/02/2021 -- Segunda Aula LPOO ||
+||Lauro Tomiatti	
+
+Pauta:
+1- Intro à JAVA/IDE eclipse
+
+Tópicos:
+
+1-)jvm x jre x jdk
+
+java virtual mmachine - camada de conversa com sistema operacional.
+
+java running envoirment - leitura do java                   
+
+java developer kit - contém tudo da JRE + bibliotecas especificas e compilador. Vem junto à IDE. 
+
+LETRA MAIUSCULA PARA Pacotes 
+LETRA MINUSCULA PARA variáveis
+
+CLASS: arquivos com conteúdo inserido em pacotes
+ponto: conversa com itens da mesma linha (ex: system.out.println("Hello World!"]"))

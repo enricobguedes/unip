@@ -1,0 +1,15 @@
+||08/03/2021 -- Segunda Aula LPOO ||
+||Henry Costa  					   ||
+
+
+Tópicos:
+
+1-) Encapsulamento de atributos
+
+Pauta:
+
+1-) Setters: métodos responsaveis por inserir e alterar valores contidos nos atributos
+	Getters: metodos responsaveis por retornar o valor de dado atributo
+
+- validador 
+- 

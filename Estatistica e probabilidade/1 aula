@@ -1,0 +1,85 @@
+|| Primeira Aula - 11/02/2021 ||
+|| Hugo alguma coisa 		  ||
+
+Pauta: 
+1-) Definições
+2-) Classificação de dados
+3-) Planejamento de experimentos
+4-) orientações gerais
+5-) Coleta de dados
+
+Tópicos:
+1-) Dado: Resultados de alguma observação da amostra.
+
+	população: Conjunto de pessoas, itens ou eventos a serem estudados. totalidade
+
+	Amostra: Subconjunto de pessoas, itens ou eventos de uma população maior. Alguns dentro da totalidade
+
+	Basicamente, população > amostra > dado.
+
+	Parâmetro: descrição numérica de uma caracteristica da população.
+
+	estátistica: descrição numerica de uma caracteristica da amostra.
+
+	Estatistica descritiva: ramo que trata organização resumo e apresentação de dados ("mão na massa") {estatistica populacional}
+
+	Estatistica inferencial: ramo de tirar conclusões sobre uma população a partir de uma amostra. Ferramenta básica: probabilidade. {estatistica amostral }
+
+2-) Podem ser classificados em:
+	- qualitativos
+		*Exemplo: A, B, C, D. (melhor - pior.)
+	- quantitativos
+		*Exemplo: Numero de doses de vacinas. (maior - menor.)
+	- niveis de medida nominal: 
+		*trantam-se de dados expecificamente qualitativos. Usam-se nomes marcas ou qualidades. Nenhum calculo matemático pode ser realizado neste nivel.
+	- nivel intervalar de medida:
+		*tratam-se de dados quantitativos. Os dados podem ser ordenados e é possível calcular diferenças significativas entre os registros de dados. 1= ,
+		2 = 15, 3= 30.
+
+	- nivel racional de medida:
+		* dados quantitativos similares ao intervalar.
+		*normalmente dados multiplos. (tabela de precipitação de chuvas).
+
+3-) Planejamento de experimentos.
+
+	Finalidade: obter conhecimento/ informação para tomar uma decisão com certeza.
+
+	Estudo estatístico (meta) 
+		-> Coletada de dados
+			-> Tomada de decisões
+
+Qualidade da tomada de decisão <-> processo de obtenção de dados 
+
+4-) O-rientações gerais:
+	-> Planejando um estudo estátistico:
+		- Identificação das variáveis de interesse (relevantes) e a população (obj. de estudos)
+		- Desenvolvimento de um plano para coleta de dados.
+		- Coleta de dados
+			-> amostra ou população
+		- Descrição dos dados 
+			-> estatistica descritiva
+		- Interpretação dos dados
+			-> estatistica inferencial
+		- Revisão dos estudos
+			-> detecção de possiveis erros
+
+5-) Coleta de dados
+
+	Censo:
+	 -> trata-se de uma coleta de informações populacional
+	 -> muito cara
+	 -> menos pratica
+	 -> menor taxa de erro.
+
+	 Amostra: 
+	 -> Contagem de parte da população
+	 -> mais prático
+	 -> maior taxa de erro
+	 Simulação:
+	 -> os dados são obitidos a partir de modelos físicos ou matemáticos
+	 -> Processos realizados com máximo de fidelidade
+	 -> Requer uso de computadores
+	 -> Permitem estudo de modelos de difícil fabricação
+
+parou em técnicas dee amostragem.
+
