@@ -1,0 +1,17 @@
+// 1 aula //
+
+Prof. Salvador Oliveira.
+
+> Matemática = dois segmentos
+	1-) Contínua (conceitos infinitos como objetivo)
+		-- estuda fenomenos que são contínuos.
+	2-) Discreta (conteitos finitos dentro do conjunto de inteiros || pontual)
+		-- estuda fenomenos que mudam de estado abruptamente
+
+> Análise combinatória
+	1-) O princípio de multiplicação
+		-- arvore de possibilidades (decisões)
+		-- Definição geral
+			>> Se existem n1 possiblidades para um primeiro evento e n2 possibilidades 
+			para um segundo evento, então existem N1*N2 possibilidades para a sequência
+			de dois eventos.
