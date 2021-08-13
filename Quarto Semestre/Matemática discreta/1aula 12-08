@@ -15,3 +15,7 @@ Prof. Salvador Oliveira.
 			>> Se existem n1 possiblidades para um primeiro evento e n2 possibilidades 
 			para um segundo evento, então existem N1*N2 possibilidades para a sequência
 			de dois eventos.
+	2-) O princípio da adição
+		-- Definição geral
+			>> Se A e B são eventos disjuntos com n1 e n2 resultados possíveis, então o 
+			numero total de possibilidades para o evento A ou B é N1 + N2.
