@@ -1,0 +1,56 @@
+// 1 aula //
+
+Recapitulação de SQL:
+
+1-) D.D.L. (Data definition language)
+	> Criar e modificar estruturas de dados armazenados.
+	> Exemplos:
+		- ALTER
+			= modificar a definiçao de dados existentes/ ALTER TABLE para adicionar nova coluna à tabela. ALTER DATABASE definir opcoes do banco de dados
+		- CREATE
+			= definir novas entidades / CREATE TABLE para adicionar nova tabela.
+		- DROP
+			= remover entidades existentes /
+			DROP TABLE para remover tabela existente
+		- DISABLE/ENABLE TRIGGER 
+			= desabilitar/habilitar um trigger DML DDL ou de logon
+			= gatilho com conjuto de acoes apos uma ação de INSERT, UPDATE, DELETE FOR/AFTER/INSTEAD OF
+		- TRUNCATE TABLE 
+			= remover todas as linhas de uma tabela, sem registrar exclusões individuais.
+2-) D.M.L. (Data manipulation language)
+	> Para consultas e modificações de dados armazenados
+	> Exemplos:
+		- SELECT
+			= seleção de uma ou varias linhas/colunas de uma ou mais tabelas
+		- INSERT
+			= inserir dados em uma ou mais tabelas
+		- UPDATE
+			= atualizar os dados de uma ou mais tabelas
+		- DELETE
+			= excluir dados de uma ou mais tabelas
+		- MERGE
+			= junção de tabelas inserindo, atualizando ou excluindo os dados na tabela destino
+3-) D.C.L. (Data control language)
+	> Controlar acesso e gerenciamento de permissões para usuarios
+	> Exemplos:
+		- GRANT 
+			= atribui privilegios
+		- REVOKE
+			= remove privilegios
+		- DENY
+			= impedir que um usuario receba permissão especifica
+
+
+4-) Variáveis aceitáveis
+	- CHAR
+	- VARCHAR(MAX)
+	- INTEGER
+	- SMALLINT
+	- NUMERIC(T,D)
+		> T = numero de casas antes da virgula
+		> D = numero de casas depois da virgula
+	- REAL(FLOAT)
+	- DOUBLE PRECISION
+	- FLOAT
+	- DATE (D,M,A)
+	- TIME (H,M,S)
